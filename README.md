@@ -22,7 +22,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=solidity,remix,js,react,nodejs,ipfs,netlify,html,css,mongodb,py,java,spring)](https://skillicons.dev)
+
 <img src = "https://user-images.githubusercontent.com/176499/96893278-ebc67580-1460-11eb-9530-d5df3a3d65d0.png" alt="hardhat" width = "40" height="40"></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsh20&show_icons=true&locale=en&layout=compact" alt="varunsh20" /></p>
