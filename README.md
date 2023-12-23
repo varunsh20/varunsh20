@@ -17,15 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/varunsh_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunsh_20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varunsh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunsh20" height="30" width="40" /></a>
+<a href="https://twitter.com/varunsh_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunsh_20" height="30" width="40" backgroundcolor="grey"/></a>
+<a href="https://linkedin.com/in/varunsh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunsh20" height="30" width="40" backgroundcolor="grey"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=solidity,remix,js,react,nodejs,ipfs,netlify,html,css,mongodb,py,java,spring)](https://skillicons.dev)
-
-<img src = "https://user-images.githubusercontent.com/176499/96893278-ebc67580-1460-11eb-9530-d5df3a3d65d0.png" alt="hardhat" width = "40" height="40"></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsh20&show_icons=true&locale=en&layout=compact" alt="varunsh20" /></p>
 
