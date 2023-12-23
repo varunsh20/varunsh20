@@ -1,11 +1,15 @@
 <h1 align="center">Hey 👋, I'm Varun Sharma</h1>
+<h3 align="center">Full Stack Web3 Developer| Java Backend Developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunsh20&label=Profile%20views&color=0e75b6&style=flat" alt="varunsh20" /> </p>
 
 <p align="left"> <a href="https://twitter.com/varunsh_20" target="blank"><img src="https://img.shields.io/twitter/follow/varunsh_20?logo=twitter&style=for-the-badge" alt="varunsh_20" /></a> </p>
 
-- 💬 Ask me about **Blockchain Ecosystem, Web3, L1/L2's, Smart Contracts, DeFi, Full-Stack dApps**
+- 🚀 Current Tech Stack: **JavaScript, Solidity, Hardhat, Remix, Node.js, Ethers.js, React.js, Chakra-UI, MongoDB, Java, Spring Framework**.
+- 👀 Interested in: **Blockchain, Web3, NFT, DeFi, DApps, Decentralization, Data ownership and Transparency**.
+- 💬 Ask me about **Blockchain Ecosystem, Web3, L1/L2's, Smart Contracts, DeFi, Full-Stack dApps, Scaling Solutions, Making Web3 easier for everyone**.
 
-- 💡 Open to Collaboration [I'm excited about collaborating on innovative projects that push the boundaries of blockchain and decentralized applications. Whether it's brainstorming ideas, contributing to open-source initiatives, or architecting solutions, let's connect and create something amazing together](I'm excited about collaborating on innovative projects that push the boundaries of blockchain and decentralized applications. Whether it's brainstorming ideas, contributing to open-source initiatives, or architecting solutions, let's connect and create something amazing together)
+- 💡 Open to Collaboration I'm excited about collaborating on innovative projects that push the boundaries of blockchain and decentralized applications. Whether it's brainstorming ideas, contributing to open-source initiatives, or architecting solutions, let's connect and create something amazing together](I'm excited about collaborating on innovative projects that push the boundaries of blockchain and decentralized applications. Whether it's brainstorming ideas, contributing to open-source initiatives, or architecting solutions, let's connect and create something amazing together or participate and win in hackathons.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
