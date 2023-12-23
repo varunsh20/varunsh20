@@ -8,6 +8,8 @@
 - 🚀 Current Tech Stack: **JavaScript, Solidity, Hardhat, Remix, Node.js, Ethers.js, React.js, Chakra-UI, MongoDB, Java, Spring Framework**.
   
 - 👀 Interested in: **Blockchain, Web3, NFT, DeFi, DApps, Decentralization, Data ownership and Transparency**.
+
+- 🌱 Currently Learning: **About Leveraging services provided by already well established Web3 projects, and how I can integrate them in my projects to make real world use-cases.**.
   
 - 💬 Ask me about **Blockchain Ecosystem, Web3, L1/L2's, Smart Contracts, DeFi, Full-Stack dApps, Scaling Solutions, Making Web3 easier for everyone**.
 
