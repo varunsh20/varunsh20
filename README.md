@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/varunsh_20" target="blank"><img src="https://img.shields.io/twitter/follow/varunsh_20?logo=twitter&style=for-the-badge" alt="varunsh_20" /></a> </p>
 
-- 🚀 Current Tech Stack: **JavaScript, Solidity, Hardhat, Remix, Node.js, Ethers.js, React.js, Chakra-UI, MongoDB, Java, Spring Framework**.
+- :computer: Working as a Full Stack Blockchain Developer at InfraSingularity.
+
+- 🚀 Current Tech Stack: **JavaScript, TypeScript, Solidity, Hardhat, Remix, Node.js, Ethers.js, Next.js, React.js, Chakra-UI, MongoDB, Java, Spring Framework**.
   
 - 👀 Interested in: **Blockchain, Web3, NFT, DeFi, DApps, Decentralization, Data ownership and Transparency**.
 
 - 🌱 Currently Learning: **About Leveraging services provided by already well established Web3 projects, and how I can integrate them in my projects to make real world use-cases.**.
   
-- 💬 Ask me about **Blockchain Ecosystem, Web3, L1/L2's, Smart Contracts, DeFi, Full-Stack dApps, Scaling Solutions, Making Web3 easier for everyone**.
+- 💬 Ask me about **Blockchain Ecosystem, Web3, L1/L2's, Smart Contracts, DeFi, Full-Stack dApps, Validators, Avs's, Scaling Solutions, Making Web3 easier for everyone**.
 
 - 💡 Open to Collaboration I'm excited about collaborating on innovative projects that push the boundaries of blockchain and decentralized applications. Whether it's brainstorming ideas, contributing to open-source initiatives, or architecting solutions, let's connect and create something amazing together](I'm excited about collaborating on innovative projects that push the boundaries of blockchain and decentralized applications. Whether it's brainstorming ideas, contributing to open-source initiatives, or architecting solutions, let's connect and create something amazing together or participate and win in hackathons.
 
