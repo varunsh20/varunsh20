@@ -15,7 +15,7 @@
   
 - 💬 Ask me about **Blockchain Ecosystem, Web3, Staking & Restaking, Validators, Provers, Sequencers, AVSs, L1/L2's, Smart Contracts, DeFi, Full-Stack dApps, Scaling Solutions, Making Web3 easier for everyone**.
 
-- 💡 Open to Collaboration I'm excited about collaborating on innovative projects that push the boundaries of blockchain and decentralized applications. Whether it's brainstorming ideas, contributing to open-source initiatives, or architecting solutions, let's connect and create something amazing together](I'm excited about collaborating on innovative projects that push the boundaries of blockchain and decentralized applications. Whether it's brainstorming ideas, contributing to open-source initiatives, or architecting solutions, let's connect and create something amazing together or participate and win in hackathons.
+- 💡 Open to Collaboration I'm excited about collaborating on innovative projects that push the boundaries of blockchain and decentralized applications. Whether it's brainstorming ideas, contributing to open-source initiatives, or architecting solutions, let's connect and create something amazing together or participate and win in hackathons.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
