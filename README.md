@@ -13,7 +13,7 @@
 
 - 🌱 Currently Learning: **About Leveraging services provided by already well established Web3 projects, and how I can integrate them in my projects to make real world use-cases.**.
   
-- 💬 Ask me about **Blockchain Ecosystem, Web3, Staking & Restaking, Validators, Provers, Sequencers, AVSs, L1/L2's, Smart Contracts, DeFi, Full-Stack dApps, Scaling Solutions, Making Web3 easier for everyone**.
+- 💬 Ask me about **Blockchain Ecosystem, Web3, Staking & Restaking, RWA Tokenization, Validators, Provers, Sequencers, AVSs, L1/L2's, Smart Contracts, DeFi, Full-Stack dApps, Scaling Solutions, Making Web3 easier for everyone**.
 
 - 💡 Open to Collaboration I'm excited about collaborating on innovative projects that push the boundaries of blockchain and decentralized applications. Whether it's brainstorming ideas, contributing to open-source initiatives, or architecting solutions, let's connect and create something amazing together or participate and win in hackathons.
 
